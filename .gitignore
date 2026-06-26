@@ -1,0 +1,10 @@
+# generated render previews & caches (not source)
+_preview*/
+**/_preview*/
+__pycache__/
+**/__pycache__/
+*.pyc
+slide_*.png
+contact_*.png
+.DS_Store
+~$*
